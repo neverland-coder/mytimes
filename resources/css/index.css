@@ -57,7 +57,7 @@ header{
 	height: 300px;
 	font-family: Georgia;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 40px;
     color: white;    
 }
 
@@ -67,6 +67,7 @@ header{
 	width: 315px;
 	border: 1px solid;
 	flex-direction: column;
+
 }
 
 .autumn-img{
@@ -78,6 +79,7 @@ header{
     font-size: 30px;
     color: white;
     text-align: center;
+    flex-direction: column;
 }
 
 .burger{
@@ -97,6 +99,7 @@ header{
     font-size: 30px;
     color: white;
     text-align: center;
+    flex-direction: column;
 }
 
 .mid-container{
