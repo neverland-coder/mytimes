@@ -1,0 +1,109 @@
+header{
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  border: 1px solid;
+}
+
+.logo{
+  display: flex;
+  color: mediumAquamarine;
+  align-items: center;
+  padding-left: 20px;
+
+}
+
+.logo span{
+	padding-left: 10px;
+}
+
+.nav{
+	display: inline-block;
+	padding-left: 1500px;
+}
+
+.content{
+	display: flex;
+	border: 1px solid;
+	justify-content: flex-start;
+	
+
+}
+
+.left.container{
+	display: flex;
+	width: 630px;
+	border: 1px solid;
+	justify-content: flex-start;
+	flex-direction: column;
+	
+}
+
+.main-story{
+	display: flex;
+	justify-content: flex-start;
+	width: 630px;
+	border: 1px solid;
+	flex-direction: column;
+}
+
+.orca{
+    display: flex;
+	justify-content: flex-start;
+	width: 630px;
+	border: 1px solid;
+	flex-direction: column;
+}
+
+.burger{
+	display: flex;
+	justify-content: flex-start;
+	width: 630px;
+	border: 1px solid;
+	flex-direction: column;
+}
+
+.mid-container{
+	display: flex;
+	width: 300px;
+	border: 1px solid;
+	flex-direction: column;
+	
+}
+
+.fbi{
+	display: flex;
+	width: 300px;
+	border: 1px solid;
+	flex-direction: column;
+}
+
+.brooklyn{
+	display: flex;
+	width: 300px;
+	border: 1px solid;
+	flex-direction: column;
+}
+
+.right.container{
+	display: flex;
+	width: 240px;
+	border: 1px solid;
+	flex-direction: column;
+	
+}
+
+.cookie{
+	border: 1px solid;
+}
+
+.newsbites{
+	display: flex;
+	width: 240px;
+	border: 1px solid;
+	flex-direction: column;
+}
