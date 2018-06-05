@@ -23,7 +23,7 @@ header{
 
 .nav{
 	display: inline-block;
-	padding-left: 1500px;
+	padding-left: 800px;
 }
 
 .content{
@@ -64,14 +64,14 @@ header{
 .orca{
     display: flex;
 	justify-content: flex-start;
-	width: 630px;
+	width: 315px;
 	border: 1px solid;
 	flex-direction: column;
 }
 
 .autumn-img{
 	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
-	width: 630px;
+	width: 315px;
 	height: 300px;
 	font-family: Georgia;
     font-weight: bold;
@@ -83,14 +83,14 @@ header{
 .burger{
 	display: flex;
 	justify-content: flex-start;
-	width: 630px;
+	width: 315px;
 	border: 1px solid;
 	flex-direction: column;
 }
 
 .camera-img{
 	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
-	width: 630px;
+	width: 315px;
 	height: 300px;
 	font-family: Georgia;
     font-weight: bold;
